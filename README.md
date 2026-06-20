@@ -4,7 +4,7 @@ A production-ready Next.js 15 (App Router) landing page for FocusFlow, a ₹399/
 
 ## Preview
 
-![FocusFlow Landing Page](./public/focusflow-preview.png)
+![FocusFlow Landing Page](./public/preview.png)
 
 ## Assignment Requirements Checklist
 
